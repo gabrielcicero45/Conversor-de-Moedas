@@ -1,6 +1,6 @@
 # conversor_de_moedas
 
-A new Flutter application.
+To see the main code you can acess lib/main.dart
 
 ## Getting Started
 
